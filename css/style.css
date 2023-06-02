@@ -1,0 +1,23 @@
+.first-container{
+    background-color: rgb(57, 58, 59);
+    display: flex;
+}
+
+.first-container p{
+    color: rgb(189, 199, 227);
+    font-size: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif    
+}
+
+.first-container h1{
+    color: rgb(213, 219, 234) !important;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 500 !important;
+}
+
+img{
+    border-radius: 25% 50%;
+    height: 200px;
+    filter: grayscale(50%);
+}
+
